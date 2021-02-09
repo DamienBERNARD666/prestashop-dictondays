@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>mydictonday</name>
+    <displayName><![CDATA[Mon module du dicton et conseil du jour]]></displayName>
+    <version><![CDATA[0.1.0]]></version>
+    <description><![CDATA[ Affiche le diction et le conseil du jour]]></description>
+    <author><![CDATA[BERNARD Damien]]></author>
+    <tab><![CDATA[front_office_features]]></tab>
+    <is_configurable>0</is_configurable>
+    <need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>
